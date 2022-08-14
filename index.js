@@ -23,6 +23,14 @@ const enmap = require("enmap");
 const fs = require("fs"); 
 const config = require("./botconfig/config.json")
 
+const express = require("express")
+const web = express()
+
+web.listen(3000, () => {})
+web.get("/", (req, res) => {
+  res.send("Đang hoạt động!")
+})
+
 /**********************************************************
  * @param {2} CREATE_THE_DISCORD_BOT_CLIENT with some default settings
  *********************************************************/
