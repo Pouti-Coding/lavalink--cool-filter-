@@ -12,6 +12,8 @@
     "erela.js-deezer": "^1.0.7",
     "erela.js-facebook": "^1.0.4",
     "erela.js-spotify": "^1.2.0",
+    "node-fetch": "2.6.7",
+    "express": "^4.18.1",
     "moment": "^2.29.1",
     "ms": "^2.1.3",
     "radio-browser": "^2.1.9"
@@ -48,4 +50,7 @@
     "url": "https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js/issues"
   },
   "homepage": "https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js#readme"
+  "devDependencies": {
+    "node": "^16.16.0"
+  }
 }
