@@ -49,7 +49,7 @@
   "bugs": {
     "url": "https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js/issues"
   },
-  "homepage": "https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js#readme"
+  "homepage": "https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js#readme",
   "devDependencies": {
     "node": "^16.16.0"
   }
